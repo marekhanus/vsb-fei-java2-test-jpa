@@ -1,4 +1,4 @@
-module cz.vsb.fei.java2.lab05 {
+module cz.vsb.fei.java2.testjpa {
     exports cz.vsb.fei.java2.testjpa;
 
     requires static lombok;
